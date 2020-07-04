@@ -1,7 +1,7 @@
 ---
 title: SONY 1000XM3
 cover_image: images/sony.jpg
-date: JUL 4 2020
+date: 2020-07-04 14:39:44
 
 tags:
 ---
@@ -10,7 +10,7 @@ Inline styles：
 
 **strong**, *emphasis*, ***strong and emphasis***,`code`, <u>underline</u>, ~~strikethrough~~, :joy:🤣, [Link](https://example.com), and image:
 
-![img](https://picsum.photos/600/400/?random)
+
 
 ---
 
