@@ -190,12 +190,12 @@ input:focus, textarea:focus {
 }
 
 .post-page h1 {
-	text-align: center;
+	text-align: justify;
 }
 
 .post-page hr {
 	border-color: #999;
-	width: 1%;
+	width: 5%;
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
