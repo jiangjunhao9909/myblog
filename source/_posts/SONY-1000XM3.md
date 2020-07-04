@@ -1,17 +1,11 @@
 ---
 title: SONY 1000XM3
-date: 2020-07-04 14:39:44
 cover_image: https://i.loli.net/2020/07/01/aDxWAv5NOtLMpRI.jpg
+date: 2020-07-04 14:39:44
+
 tags:
 ---
 ---
-title: 我的第一篇博客
-date: 2020-03-18 21:18:55
-tags:
----
-
-
-
 Inline styles：
 
 **strong**, *emphasis*, ***strong and emphasis***,`code`, <u>underline</u>, ~~strikethrough~~, :joy:🤣, [Link](https://example.com), and image:
