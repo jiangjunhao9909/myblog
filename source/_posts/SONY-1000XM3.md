@@ -1,6 +1,6 @@
 ---
 title: SONY 1000XM3
-cover_image: https://i.loli.net/2020/07/01/aDxWAv5NOtLMpRI.jpg
+cover_image: images/SONY 1000XM3.jpg
 date: 2020-07-04 14:39:44
 
 tags:
