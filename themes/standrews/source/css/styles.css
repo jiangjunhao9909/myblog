@@ -190,14 +190,14 @@ input:focus, textarea:focus {
 }
 
 .post-page h1 {
-	text-align: justify;
+	text-align: center;
 }
 
 .post-page hr {
 	border-color: #999;
 	width: 5%;
-	margin-top: 20px;
-	margin-bottom: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 /* Footer
