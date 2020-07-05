@@ -1,6 +1,6 @@
 ---
 title: 'Prediction Micro Film'
 cover_image: images/prediction.jpg
-date: 2020-07-05 16:38:24
+date: 2020-07-02 00:00:01
 tags:
 ---
