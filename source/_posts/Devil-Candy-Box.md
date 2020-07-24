@@ -13,7 +13,7 @@ The inside of the sugar box is provided with a buckle structure to ensure that t
 ![1.png](https://i.loli.net/2020/07/24/9KzxMEROaD8YJkX.png)
 ### TASTE
 The two kinds of candy in the sugar box have totally different tastes. Black pupil selects bitter herbs as inner core, while white pupil selects sweet herbs as inner core. Through the selection of tonic herbs, users can also get extra body care when playing games.
-![img](https://picsum.photos/600/400/?random)
+![1.png](https://i.loli.net/2020/07/24/9KzxMEROaD8YJkX.png)
 
 
 
