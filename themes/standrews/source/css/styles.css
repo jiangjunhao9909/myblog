@@ -183,11 +183,7 @@ input:focus, textarea:focus {
 /* Post Page
 —————————————————————————————————————————————————————————————————————— */
 
-.cover-image {
-	width: 100%;
-	max-height: 500px;
-	object-fit: cover;
-}
+
 
 .post-page h1 {
 	text-align: center;
