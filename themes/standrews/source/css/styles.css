@@ -184,7 +184,8 @@ input:focus, textarea:focus {
 —————————————————————————————————————————————————————————————————————— */
 
 .cover-image {
-	width: 725px;
+	width: 0px;
+	max-height: 0px;
 	object-fit: cover;
 }
 
