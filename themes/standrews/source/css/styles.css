@@ -210,6 +210,6 @@ footer {
 /* 更改手机图片的宽度 */
 @media screen and (max-width: 800px) {
 	img {
-		max-width: 355px !important;
+		max-width: 86vw !important;
 	}
 }
