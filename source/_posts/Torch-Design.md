@@ -11,6 +11,5 @@ tags:
 <p style="text-align: center;">
 <img alt="" src="https://s2.loli.net/2022/01/14/ZxVUm5XYkRF4Oze.jpg" style="width: 725px; " /></p>
 
-
 <p style="text-align: center;">
 <img alt="" src="https://s2.loli.net/2022/01/14/TFQgEpRqXjtIdiy.jpg" style="width: 725px; " /></p>
