@@ -4,13 +4,12 @@ cover_image: images/kaku.jpg
 date: 2020-07-02 17:12:11
 tags:
 ---
-<img {text-align: center;margin: 0 auto;}src="https://s2.loli.net/2022/01/12/pLkD2oPaKFNtbQy.jpg" width = "300" height = "200">
 
-<p style="text-align: center;margin: 0 auto;">
-<img alt="" src="https://s2.loli.net/2022/01/12/TsqVp17I9F6rGcl.jpg" style="width: 725px; " /></p>
+<p style="text-align: center;">
+<img alt="" src="https://s2.loli.net/2022/01/12/TsqVp17I9F6rGcl.jpg" style="width: 300px; " /></p>
 
 <p style="text-align: center; ">
-<img alt="" src="https://s2.loli.net/2022/01/12/7vhLsVr3xo9a8jk.jpg" style="width: 725px; " /></p>
+<img alt="" src="https://s2.loli.net/2022/01/12/7vhLsVr3xo9a8jk.jpg" style="width: 300px; " /></p>
 
 ## WHAT IS KAKU
 
