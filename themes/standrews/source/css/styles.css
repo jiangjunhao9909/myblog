@@ -207,9 +207,9 @@ footer {
 	border-top: 1px solid #eee;
 }
 
-
+/* 更改手机图片的宽度 */
 @media screen and (max-width: 800px) {
 	img {
-		max-width: 350px !important;
+		max-width: 355px !important;
 	}
 }
