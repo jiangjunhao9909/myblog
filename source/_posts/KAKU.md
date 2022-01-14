@@ -5,7 +5,9 @@ date: 2020-07-02 17:12:11
 tags:
 ---
 <img style="margin: center;" src="https://s2.loli.net/2022/01/12/pLkD2oPaKFNtbQy.jpg" width = "300" height = "200">
-
+<div align=center>
+![微信小程序 导航菜单](src="https://s2.loli.net/2022/01/12/pLkD2oPaKFNtbQy.jpg")
+</div>
 
 ## WHAT IS KAKU
 
