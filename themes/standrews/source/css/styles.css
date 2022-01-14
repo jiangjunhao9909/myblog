@@ -210,6 +210,6 @@ footer {
 
 @media screen and (max-width: 800px) {
 	img {
-		max-width: 350px;
+		max-width: 350px !important;
 	}
 }
