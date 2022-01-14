@@ -207,9 +207,23 @@ footer {
 	border-top: 1px solid #eee;
 }
 
+img {
+	max-width: 750px;
+}
 /* 更改手机图片的宽度 */
-@media screen and (max-width: 800px) {
+@media screen  and  (max-width: 900px){
 	img {
-		max-width: 86vw !important;
+		max-width: 80vw !important;
 	}
 }
+@media screen and (max-width:740px) {
+	img{
+		max-width: 500px !important;
+	}
+}
+@media screen and (max-width: 677px) {
+	img {
+		max-width: 76vw !important;
+	}
+}
+
