@@ -192,7 +192,7 @@ input:focus, textarea:focus {
 .post-page h1 {
 	text-align: center;
 }
-
+ 
 .post-page hr {
 	border-color: #999;
 	width: 5%;
@@ -205,4 +205,11 @@ input:focus, textarea:focus {
 
 footer {
 	border-top: 1px solid #eee;
+}
+
+
+@media screen and (max-width: 800px) {
+	img {
+		max-width: 350px;
+	}
 }
