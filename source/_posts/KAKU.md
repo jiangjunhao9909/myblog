@@ -6,7 +6,7 @@ tags:
 ---
 <img {text-align: center;margin: 0 auto;}src="https://s2.loli.net/2022/01/12/pLkD2oPaKFNtbQy.jpg" width = "300" height = "200">
 
-<p style="text-align: center; ">
+<p style="text-align: center;margin: 0 auto;">
 <img alt="" src="https://s2.loli.net/2022/01/12/TsqVp17I9F6rGcl.jpg" style="width: 725px; " /></p>
 
 <p style="text-align: center; ">
