@@ -6,10 +6,10 @@ tags:
 ---
 
 <p style=" max-text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/aSM1pi8GfI3EoOr.jpg" style=" max-width: 725px; " /></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/aSM1pi8GfI3EoOr.jpg"  /></p>
 
 <p style=" max-text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/ZxVUm5XYkRF4Oze.jpg" style=" max-width: 725px; " /></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/ZxVUm5XYkRF4Oze.jpg"  /></p>
 
 <p style=" max-text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/TFQgEpRqXjtIdiy.jpg" style=" max-width: 725px; " /></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/TFQgEpRqXjtIdiy.jpg"  /></p>

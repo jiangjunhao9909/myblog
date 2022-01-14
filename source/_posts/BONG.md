@@ -24,20 +24,20 @@ tags:
 <img alt="" src="https://s2.loli.net/2022/01/14/AJYld8mgfLUHntW.jpg" style="width: 725px; " /></p> -->
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/zi7fhIkVjXxuTre.jpg"  style="max-width:725px"/></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/zi7fhIkVjXxuTre.jpg" /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/w4BOtRx1WzeZvyY.jpg" style="max-width:725px"/></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/w4BOtRx1WzeZvyY.jpg"/></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/49ML83cKyXqd1zf.jpg" style="max-width:725px" /></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/49ML83cKyXqd1zf.jpg" /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/obSe1QfBkaTAX3t.jpg"   style="max-width:725px"/></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/obSe1QfBkaTAX3t.jpg"  /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/AJYld8mgfLUHntW.jpg" style="max-width:725px" /></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/AJYld8mgfLUHntW.jpg" /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/14/AJYld8mgfLUHntW.jpg" style="max-width:725px" /></p>
+<img alt="" src="https://s2.loli.net/2022/01/14/AJYld8mgfLUHntW.jpg" /></p>
 
