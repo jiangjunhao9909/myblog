@@ -6,10 +6,18 @@ tags:
 ---
 
 <p style="text-align: center;">
+<img alt="" src="https://s2.loli.net/2022/01/16/eGdvH6V3z5h2U1J.jpg"  /></p>
+
+<p style="text-align: center;">
 <img alt="" src="https://s2.loli.net/2022/01/12/TsqVp17I9F6rGcl.jpg"  /></p>
 
 <p style="text-align: center; ">
 <img alt="" src="https://s2.loli.net/2022/01/12/7vhLsVr3xo9a8jk.jpg"  /></p>
+
+<p style="text-align: center; ">
+<img alt="" src="https://s2.loli.net/2022/01/12/cERX8VilqWH1z3U.jpg"  /></p>
+
+
 
 ## WHAT IS KAKU
 
