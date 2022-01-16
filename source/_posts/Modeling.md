@@ -14,9 +14,6 @@ tags:
 <img alt="" src="https://s2.loli.net/2022/01/16/iVPBSpqFm1EZcXD.jpg"  /></p>
 
 <p style="text-align: center; ">
-<img alt="" src="https://s2.loli.net/2022/01/16/8o1f9WY3KgLUJMX.jpg"  /></p>
-
-<p style="text-align: center; ">
 <img alt="" src="https://s2.loli.net/2022/01/16/F8szCSfaYpLOdDx.jpg"  /></p>
 
 
