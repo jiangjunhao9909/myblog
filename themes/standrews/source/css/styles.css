@@ -213,13 +213,13 @@ img {
 /* 更改手机图片的宽度 */
 @media screen  and  (max-width: 900px){
 	img {
-		position: absolute;
+		position: relative;
 		left: 50%;
-		transform: translateX(-60%);
+		transform: translateX(-50%);
 		max-width: 80vw !important;
 	}
 	.post-image .img-fluid{
-		position: absolute;
+		position: relative;
 		left: 50%;
 		transform: translate(-50%);
 	}
