@@ -218,7 +218,7 @@ img {
 }
 @media screen and (max-width:740px) {
 	img{
-		max-width: 500px !important;
+		max-width: 400px !important;
 	}
 }
 @media screen and (max-width: 677px) {
