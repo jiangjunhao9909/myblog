@@ -1,7 +1,7 @@
 ---
 title: Modeling
 cover_image: images/SONY-1.jpg
-date: 2020-07-04 14:39:44
+date: 2020-07-01 14:39:44
 tags:
 ---
 <p style="text-align: center;">
