@@ -18,7 +18,11 @@ tags:
 <p style="text-align: center;">
 <img alt="" src="https://s2.loli.net/2022/01/14/AJYld8mgfLUHntW.jpg" /></p>
 
-BONG
+
+
+**BONG**
+
+
 
 "BONG is an intelligent musical drum for children that combines playability and interactivity. It simulates the tones of dozens of different percussion instruments to help children understand the instruments and convey their emotions through the medium of music.
 
