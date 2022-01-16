@@ -229,7 +229,7 @@ img {
 }
 @media screen and (max-width: 677px) {
 	img {
-		position: absolute;
+		position: relative;
 		left: 50%;
 		transform: translateX(-50%);
 		max-width: 76vw !important;
