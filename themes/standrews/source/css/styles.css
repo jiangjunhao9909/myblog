@@ -218,6 +218,11 @@ img {
 		transform: translateX(-60%);
 		max-width: 80vw !important;
 	}
+	.post-image .img-fluid{
+		position: absolute;
+		left: 50%;
+		transform: translate(-50%);
+	}
 }
 @media screen and (max-width:740px) {
 	img{
@@ -225,6 +230,11 @@ img {
 		left: 50%;
 		transform: translateX(-60%);
 		max-width: 400px !important;
+	}
+	.post-image .img-fluid{
+		position: absolute;
+		left: 50%;
+		transform: translate(-50%);
 	}
 }
 @media screen and (max-width: 677px) {
