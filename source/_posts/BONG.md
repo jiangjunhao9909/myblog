@@ -1,6 +1,6 @@
 ---
 title: BONG
-cover_image: images/BONG.jpg
+cover_image: images/BONG.png
 date: 2021-11-30 17:12:11
 tags:
 ---
