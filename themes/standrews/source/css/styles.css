@@ -256,7 +256,7 @@ img {
 		position: relative;
 		left: 50%;
 		transform: translateX(-60%);
-		max-width: 80vw !important;
+		max-width: 76vw !important;
 	}
 	.post-image .img-fluid{
 		position: absolute;
