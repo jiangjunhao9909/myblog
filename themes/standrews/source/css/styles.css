@@ -234,5 +234,10 @@ img {
 		transform: translateX(-60%);
 		max-width: 76vw !important;
 	}
+	.post-image .img-fluid{
+		position: absolute;
+		left: 50%;
+		transform: translate(-50%);
+	}
 }
 
