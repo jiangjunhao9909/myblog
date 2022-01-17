@@ -14,7 +14,13 @@ tags:
 <p style="text-align: center;">
 <img alt="" src="https://s2.loli.net/2022/01/16/dn7U6s3D1IReLAw.jpg" /></p>
 
+**Corrugated paper Chair**
 
+This corrugated paper chair is made entirely of recycled corrugated paper. With ergonomically based data and a spliced structure that has undergone repeated experiments, it can weigh about 150 kg.
+
+Junhao Jiang 
+
+2020.10
 
 
 
