@@ -211,25 +211,14 @@ img {
 	max-width: 750px;
 }
 /* 更改手机图片的宽度 */
-@media screen  and  (max-width: 900px){
+
+@media screen  and  (max-width: 1172px){
+	p{
+		position: relative;
+	}
 	img {
 		position: relative;
-		left: 50%;
-		transform: translateX(-50%);
-		max-width: 80vw !important;
-	}
-	.post-image .img-fluid{
-		position: absolute;
-		left: 50%;
-		transform: translate(-50%);
-	}
-}
-@media screen and (max-width:740px) {
-	img{
-		position: relative;
-		left: 50%;
-		transform: translateX(-60%);
-		max-width: 400px !important;
+		width: 100%;
 	}
 	.post-image .img-fluid{
 		position: absolute;
@@ -238,30 +227,4 @@ img {
 	}
 }
 
-@media screen and (max-width: 677px) {
-	img {
-		position: relative;
-		left: 50%;
-		transform: translateX(-50%);
-		max-width: 76vw !important;
-	}
-	.post-image .img-fluid{
-		position: absolute;
-		left: 50%;
-		transform: translate(-50%);
-	}
-}
-@media screen  and (max-width: 650px) {
-	img {
-		position: relative;
-		left: 50%;
-		transform: translateX(-60%);
-		max-width: 76vw !important;
-	}
-	.post-image .img-fluid{
-		position: absolute;
-		left: 50%;
-		transform: translate(-50%);
-	}
-}
 
