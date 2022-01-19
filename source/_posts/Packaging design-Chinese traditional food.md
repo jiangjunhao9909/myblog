@@ -1,27 +1,25 @@
 ---
-title: Packaging design-Chinese traditional food
+title: Packaging design
 cover_image: images/food.PNG
-date: 2021-12-1 17:12:11
+date: 2020-06-1 17:12:11
 tags:
 ---
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/16/Vbxht6AcpKGZ19g.png" /></p>
+<img alt="" src="https://s2.loli.net/2022/01/19/eBuUMS5lLyW7nDR.jpg" /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/16/3RziXsp9dlgExVh.png"/></p>
+<img alt="" src="https://s2.loli.net/2022/01/19/wvMmqhUPXCSWHN4.png"/></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/16/DAOHUtfxokB1Sij.png" /></p>
+<img alt="" src="https://s2.loli.net/2022/01/19/vnbjAWgcTp5J4Xx.png" /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/16/TFWC4kIa5lnbsfp.png"  /></p>
+<img alt="" src="https://s2.loli.net/2022/01/19/sT2SM9ywuozht1W.png"  /></p>
 
 <p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/16/m7frLRvJgxnUP8F.png" /></p>
+<img alt="" src="https://s2.loli.net/2022/01/19/SPFACd51iHIDgz3.png" /></p>
 
-<p style="text-align: center;">
-<img alt="" src="https://s2.loli.net/2022/01/16/5KG7OVedDxZaRUY.png" /></p>
 
 **Packaging design**
 
@@ -29,6 +27,6 @@ This is a package designed for traditional Chinese cuisine, which contains pastr
 
 Junhao Jiang 
 
-2021.12
+2020.06
 
 
