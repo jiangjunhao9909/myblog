@@ -1,7 +1,7 @@
 ---
 title: Online Education Research Project
 cover_image: images/research.PNG
-date: 2021-12-1 17:12:11
+date: 2020-09-1 17:12:11
 tags:
 ---
 
@@ -28,6 +28,6 @@ DOI: 10.1109/ISCID51228.2020.00056
 
 Junhao Jiang 
 
-2020.11
+2020.09
 
 
