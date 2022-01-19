@@ -1,6 +1,6 @@
 ---
 title: Online Education Research Project
-cover_image: images/portrip.PNG
+cover_image: images/research.PNG
 date: 2021-12-1 17:12:11
 tags:
 ---
