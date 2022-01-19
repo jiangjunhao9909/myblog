@@ -14,6 +14,9 @@ tags:
 <img alt="" src="https://s2.loli.net/2022/01/19/MCIct7Ysx8ZT64B.png"/></p>
 
 
+<p style="text-align: center;">
+<img alt="" src="https://s2.loli.net/2022/01/19/AzwbEnrTHLPZm5K.png"/></p>
+
 
 **A Method of Establishing Evaluation Model of Online Teaching Interactive Behavior**
 
